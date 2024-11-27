@@ -32,6 +32,7 @@ function ViewProduct(){
                 <tr>
                     <th>Id</th>
                     <th> Product Name</th>
+                    <th> Product Image</th>
                     <th>Manufacture</th>
                     <th>Quantity</th>                                     
                     <th>Price</th>
@@ -44,6 +45,8 @@ function ViewProduct(){
                     product.map((product)=><tr>
                         <td>{product.id}</td>
                         <td>{product.productName}</td>
+                        <td><img src={product.productImage}
+                               width={100}></img></td>
                         <td>{product.manufacture}</td>
                         <td>{product.quantity}</td>
                         <td>{product.price}</td>

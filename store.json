@@ -3,6 +3,7 @@
     {
       "id": "1",
       "productName": "Cello pen",
+      "productImage":"../images/pen.jpg",
       "manufacture": "Cello pvtl",
       "quantity": 20,
       "inStock": true,
@@ -11,6 +12,7 @@
     {
       "id": "2",
       "productName": "books",
+      "productImage":"../images/books.jpg",
       "manufacture": "xyz",
       "quantity": "600",
       "price": "50",
@@ -19,6 +21,7 @@
     {
       "id": "3",
       "productName": "hanky",
+      "productImage":"../images/1.jpg",
       "manufacture": "Bisleri pvlt",
       "quantity": 200,
       "price": 17,

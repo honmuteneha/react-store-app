@@ -59,6 +59,10 @@ function AddProduct(){
                         <input type="text" {...register('productName')} className="form-control border border-dark"></input>
                     </div>
                     <div>
+                        <label className="form-label">Add Product Image </label>
+                        <input type="text" {...register('productImage')} className="form-control border border-dark"></input>
+                    </div>
+                    <div>
                         <label className="form-label">Enter Product Manufacture </label>
                         <input type="text" {...register('manufacture')} className="form-control border border-dark"></input>
                     </div>
