@@ -1,0 +1,28 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "productName": "Cello pen",
+      "manufacture": "Cello pvtl",
+      "quantity": 20,
+      "inStock": true,
+      "price": 20
+    },
+    {
+      "id": "2",
+      "productName": "books",
+      "manufacture": "xyz",
+      "quantity": "600",
+      "price": "50",
+      "inStock": true
+    },
+    {
+      "id": "3",
+      "productName": "hanky",
+      "manufacture": "Bisleri pvlt",
+      "quantity": 200,
+      "price": 17,
+      "inStock": true
+    }
+  ]
+}
